@@ -15,5 +15,5 @@
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/single-page-recipe-website.git
-   cd single-page-recipe-website
+   git clone https://github.com/Mydeepan/responsive-recipe-website.git
+  
